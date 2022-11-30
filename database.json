@@ -1,0 +1,33 @@
+{
+  
+  "productos": [
+    {
+      "id" : 1,
+      "nombre" : "Fernet Branca",
+      "precio" : 1000,
+      "img" : "https://http2.mlstatic.com/D_NQ_NP_839815-MLA42105294550_062020-O.jpg",
+      "cantidad" : 1
+    },
+    {
+      "id" : 2,
+      "nombre" : "Gin Beefeater",
+      "precio" : 3500,
+      "img" : "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/211/660/products/beefeater-20211-105b4c8048f1d9f7da16214295898598-640-0.png",
+      "cantidad" : 1
+    },
+    {
+      "id" : 3,
+      "nombre" : "Gin Bombay Saphire",
+      "precio" : 6500,
+      "img" : "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/211/660/products/bombay-750-ok1-44604b4cc3272c112d16178914620015-640-0.png",
+      "cantidad" : 1
+    },
+    {
+      "id" : 4,
+      "nombre" : "Absolut Vodka",
+      "precio" : 4000,
+      "img" : "https://i.pinimg.com/474x/06/36/fb/0636fb643983c2c26e27594f7ce36dc7--absolut-vodka-design.jpg",
+      "cantidad" : 1
+    }
+  ]   
+}
